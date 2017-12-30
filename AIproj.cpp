@@ -2,10 +2,10 @@
 //
 
 #include "stdafx.h"
-
+#include "parser.h"
 
 int main()
 {
-    return 0;
+	return (parse("test.bmp"));
 }
 
